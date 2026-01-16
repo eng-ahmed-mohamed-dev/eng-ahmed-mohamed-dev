@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="65%" />
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="700"
+  />
+</p>
 
 <h1>Hi 👋 I'm Ahmed Mohamed</h1>
 
