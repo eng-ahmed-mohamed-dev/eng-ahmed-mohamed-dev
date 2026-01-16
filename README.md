@@ -1,17 +1,16 @@
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="700"
-  />
-</p>
+<!-- Snake Animation -->
+<img 
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  width="700"
+/>
 
 <h1>Hi 👋 I'm Ahmed Mohamed</h1>
 
 <h3>
-Programming Fundamentals with C++ <br>
-Problem Solver • Solved 300+ Problems
+Programming Fundamentals with C++ <br/>
+Problem Solver • Solved <b>300+</b> Programming Problems
 </h3>
 
 </div>
@@ -57,15 +56,22 @@ Problem Solver • Solved 300+ Problems
 ## 🏆 Achievements
 - ✅ Solved **300+ Programming Problems** using C++
 - 🔥 Strong foundation in **Problem Solving & Logic**
+- 💡 Continuous daily practice & improvement mindset
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eng-ahmed-mohamed-dev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=eng-ahmed-mohamed-dev&show_icons=true&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmed-mohamed-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ahmed-mohamed-dev&layout=compact&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
 
 </div>
 
