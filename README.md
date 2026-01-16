@@ -87,7 +87,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/@YOUR_CHANNEL](https://www.youtube.com/channel/UC9QBsaRwn2TYYudGNrE1FIg">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
