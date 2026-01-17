@@ -91,7 +91,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/YOUR_PROFILE">
+<a href="https://www.facebook.com/profile.php?viewas=&id=61573965006580&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_review_changes=false&should_open_composer=false&badge_type=NEW_MEMBER&show_community_rollback_toast=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -111,7 +111,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/engineer_ahmed80">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
