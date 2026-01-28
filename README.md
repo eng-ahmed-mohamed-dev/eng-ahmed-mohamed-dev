@@ -78,7 +78,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=eng-ahmed-mohamed-dev&theme=tokyonight&hide_border=true"
     width="413"
-    height="200"
+    height="250"
   />
 </div>
 
