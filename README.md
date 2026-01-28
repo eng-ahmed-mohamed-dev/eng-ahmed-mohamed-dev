@@ -72,11 +72,11 @@ Problem Solver • Solved <b>300+</b> Programming Problems
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=eng-ahmed-mohamed-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    width="420"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=eng-ahmed-mohamed-dev&theme=tokyonight&hide_border=true"
-    height="180"
+    width="420"
   />
 </p>
 
