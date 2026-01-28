@@ -69,18 +69,18 @@ Problem Solver • Solved <b>300+</b> Programming Problems
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=eng-ahmed-mohamed-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    style="display:inline-block;"
+    width="420"
+    height="180"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=eng-ahmed-mohamed-dev&theme=tokyonight&hide_border=true"
-    height="170"
-    style="display:inline-block;"
+    width="420"
+    height="180"
   />
-</p>
+</div>
 
 ---
 
