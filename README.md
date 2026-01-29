@@ -101,7 +101,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_PROFILE">
+<a href="https://www.linkedin.com/in/ahmed-mohamed-software">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
