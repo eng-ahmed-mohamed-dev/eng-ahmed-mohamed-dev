@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- Snake Animation -->
-<img 
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="700"
-/>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/eng-ahmed-mohamed-dev/eng-ahmed-mohamed-dev/main/hello-coders.gif"
+    width="60%"
+    alt="Hello Coders"
+  />
+</p>
 
 <h1>Hi 👋 I'm Ahmed Mohamed</h1>
 
