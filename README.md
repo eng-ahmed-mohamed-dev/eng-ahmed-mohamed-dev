@@ -71,16 +71,16 @@ Problem Solver • Solved <b>300+</b> Programming Problems
 
 ## 📊 GitHub Stats
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eng-ahmed-mohamed-dev&theme=tokyonight"
-  alt="GitHub Stats"
-  width="413"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eng-ahmed-mohamed-dev&theme=tokyonight"
-  alt="Repos per Language"
-  width="413"
-/>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eng-ahmed-mohamed-dev&theme=tokyonight"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eng-ahmed-mohamed-dev&theme=tokyonight"
+    width="45%"
+  />
+</p>
 
 ---
 
