@@ -12,7 +12,7 @@
 
 <h3>
 Programming Fundamentals with C++ <br/>
-Problem Solver • Solved <b>300+</b> Programming Problems
+Problem Solver • Solved <b>354+</b> Programming Problems
 </h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
        width="120" />
 - ✅ Completed **Structured Programming**
-- 🧠 Solved **300+ Programming Problems**
+- 🧠 Solved **354+ Programming Problems**
 - 🎯 Strong focus on **logic building & problem solving**
 - ✍️ Writing **clean & readable code**
 - 🚀 Planning to learn **OOP & Data Structures** next
@@ -63,7 +63,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **300+ Programming Problems** using C++
+- ✅ Solved **354+ Programming Problems** using C++
 - 🔥 Strong foundation in **Problem Solving & Logic**
 - 💡 Continuous daily practice & improvement mindset
 
