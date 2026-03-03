@@ -87,10 +87,6 @@ Problem Solver • Solved <b>354+</b> Programming Problems
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="https://www.youtube.com/channel/UC9QBsaRwn2TYYudGNrE1FIg">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
 <a href="https://www.facebook.com/profile.php?viewas=&id=61573965006580&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_review_changes=false&should_open_composer=false&badge_type=NEW_MEMBER&show_community_rollback_toast=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
